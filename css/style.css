@@ -1,0 +1,20 @@
+
+.c_btn{
+	margin-top: 20px;
+}
+.c_btn:hover{
+	color: #000;
+	background-color: #fff;
+	border: 1px solid #000;
+}
+.c_btn:active{
+	color: #000;
+	background-color: #fff;
+	border: 1px solid #000;
+}
+/*.item_h5{
+	color: #000;
+}
+.item_p{
+	color: #000;
+}*/
